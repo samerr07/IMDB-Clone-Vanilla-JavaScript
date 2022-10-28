@@ -39,7 +39,7 @@ This Website has 3 pages :
 
 ## Demo
 
-Insert gif or link to demo
+ImDb Live: https://samerr07.github.io/IMDB-Clone-Vanilla-JavaScript/
 
 
 ## API Reference
